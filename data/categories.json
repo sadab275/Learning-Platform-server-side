@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Java",
+        "description": "Java is one of the most powerful programming languages that is currently used in more than 3 billion devices. Java is currently one of the most trending technology. It is used in desktop applications, mobile applications, web development, Artificial intelligence, cloud applications, and many more. This language gives you exposure to many things and you just need to build a strong foundation with Geeksforgeeks Java Programming Foundation and Self-Paced course. So learning and acing in this technology offers insanely high salaries, amazing growth opportunities, and global recognition."
+    },
+    {
+        "id": 2,
+        "name": "C",
+        "description": "C is a general-purpose programming language that is designed to work efficiently on games, graphics, and enterprise applications."
+    },
+    {
+        "id": 3,
+        "name": "Python",
+        "description": "Python can be regarded as the future of programming languages. As per the latest statistics, Python is the main coding language for around 80% of developers. The presence of extensive libraries in Python facilitates artificial intelligence, data science, and machine learning processes. Currently, Python is trending and can be regarded as the king of programming languages. It is also an absolutely interesting language for beginners and at Geeksforgeeks we have curated a special Python Programming Foundation -Self-Paced course where one can learn all the basics in one place. So learning this programming language in 2022 promises you success and growth."
+    },
+    {
+        "id": 4,
+        "name": "JavaScript",
+        "description": "JavaScript is one of the world's most popular programming languages on the web. As per the survey, more than 97 percent of the websites use JavaScript on the client-side of the webpage."
+    },
+    {
+        "id": 5,
+        "name": "R",
+        "description": "R is a programming language for statistical and graphical programming. It is widely used among statisticians and data miners for data analysis. It holds profound importance in data analysis, financial domains, and telecom sectors."
+    },
+    {
+        "id": 6,
+        "name": "Kotlin",
+        "description": "Kotlin is a cross-platform programming language designed to develop apps. It is being used by more than 60% of android developers. Kotlin beholds fourth place among the fastest-growing programming language on several renowned indices."
+    },
+    {
+        "id": 7,
+        "name": "PHP",
+        "description": "PHP is one of the general-purpose scripting languages that will continue to hold its importance in the upcoming years. It is among the first server-side language that can be embedded with HTML to add functionality to web pages. Due to the increasing online trend, PHP developers are in high demand."
+    },
+    {
+        "id": 8,
+        "name": "Swift",
+        "description": "It is a robust programming language developed by Apple Inc. It is used to create apps for iOS, watchOS, macOS, and many more. It can be seen as the future of high-performance and secured applications. So sooner it will reach the top level of programming languages."
+    },
+    {
+        "id": 9,
+        "name": "Go",
+        "description": "Go is one of the most reliable and efficient programming languages that stands out from the rest. It was originally designed at Google in 2007 to manage its rapidly growing infrastructure. It quickly gained amazing popularity and has become one of the top programming languages."
+    },
+    {
+        "id": 10,
+        "name": "C++",
+        "description": " C++ is a programming language that runs on the .NET framework and is developed by Microsoft in 2000. It is effective in making desktop applications and games. As per the survey, 34% of the top mobile games are made using C#. It is a well-designed language and is highly in demand globally."
+    }
+]
