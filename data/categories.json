@@ -68,12 +68,5 @@
         "heading": "C++ for beginners",
         "description": " C++ is a programming language that runs on the .NET framework and is developed by Microsoft in 2000. It is effective in making desktop applications and games. As per the survey, 34% of the top mobile games are made using C#. It is a well-designed language and is highly in demand globally.",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
-    },
-    {
-        "id": 11,
-        "name": "C++",
-        "heading": "C++ for beginners",
-        "description": " C++ is a programming language that runs on the .NET framework and is developed by Microsoft in 2000. It is effective in making desktop applications and games. As per the survey, 34% of the top mobile games are made using C#. It is a well-designed language and is highly in demand globally.",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
     }
 ]
